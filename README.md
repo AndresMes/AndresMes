@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi! I'm Andrés Escobar
 <br>- 🔭 I’m currently working on strengthening my backend development skills<br>- 🌱 I’m currently learning messaging queues and event-driven architectures<br>- 👯 I’m looking to collaborate on backend or open-source projects that help people or communities<br>- 🤔 I’m looking for help with learning new backend technologies and best practices<br>- 💬 Ask me about Java, Spring Boot, REST APIs, databases, and basic messaging systems<br>- 📫 How to reach me: federicoescobar2022@gmail.com | LinkedIn<br>- ⚡ Fun fact: I can recognize all the flags of sovereign countries<br>
 
 
